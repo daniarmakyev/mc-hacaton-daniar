@@ -4,7 +4,7 @@
 
 let programmer = {
   name: "Бобик",
-  surName: "Сутенер",
+  surName: "Пес",
   age: 8,
   langProg: "Ассемблер",
   salary:100,
